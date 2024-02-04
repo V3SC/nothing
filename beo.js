@@ -1,1 +1,3 @@
-console.log("F?")
+(function() {
+console.log(true)
+})();
